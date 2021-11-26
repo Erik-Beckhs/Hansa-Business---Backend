@@ -4,7 +4,7 @@
     "connector": "memory"
   },
   "MySQL": {
-    "host": "docker-qas.hansa.com.bo",
+    "host": "localhost",
     "port": 900,
     "url": "",
     "database": "Proveedor",
